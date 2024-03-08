@@ -1,0 +1,98 @@
+commit 68b355a619a792610a8fe41b0ec293db51db3d01
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Fri Mar 8 11:25:06 2024 -0500
+
+    Agregando dos parrafos
+
+commit 5c0d6290a06b3e2e21ccb3f07430ea1e0ab55af8
+Merge: eb978da 3e07939
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Fri Mar 8 11:23:08 2024 -0500
+
+    Resolviendo conflicto en estaciones del año con fecha de inicio
+
+commit eb978da076e0845f1ca206a092c1ab1e01bd3c64
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Fri Mar 8 11:08:23 2024 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 3e079398df02ad01ceffc6a0f94a64b2bbbbbeba
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Fri Mar 8 11:08:23 2024 -0500
+
+    Agregando estaciones del año
+
+commit ba64486df9959c758c5a482dd67477477ee08f98
+Merge: 0786a01 e3984f4
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Fri Mar 8 10:27:41 2024 -0500
+
+    Resolviendo conflicto merage main html en el documento index.html
+
+commit e3984f4a0f8b8e654587522bcacf605fac46e3d0
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Fri Mar 8 10:19:45 2024 -0500
+
+    Agregando index.js a index.html
+
+commit 0786a011be65c6148e1589a0f7dc2171847d72ff
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Fri Mar 8 10:17:36 2024 -0500
+
+    Agragando style.css al index.html
+
+commit b5f9d1c61c56d1f7a91950d86f119de021de4c48
+Merge: 44a312f 79add77
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Thu Mar 7 17:52:58 2024 -0500
+
+    Merge branch 'js'
+
+commit 79add775a96b81036f5d78427c6753de07e0de87
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Thu Mar 7 16:35:08 2024 -0500
+
+    Creando index js
+
+commit 44a312f2fe88ccc9fda7d3e4c1cabe2a1b68976a
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Thu Mar 7 16:30:15 2024 -0500
+
+    Creando stye css
+
+commit 32e4d1ba3baaaee6dee57ba65b814a803bc1cca9
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Thu Mar 7 16:26:00 2024 -0500
+
+    Creando archivo index HTML
+
+commit a93da88f610cace30c746537506b0ec3c47cbff4
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Thu Mar 7 15:50:14 2024 -0500
+
+    ignorando archivos .exe
+
+commit 391a7a95a9d8319f1699a933fdbbfadaefdcd837
+Author: IvanPP1996 <162188454+IvanPP1996@users.noreply.github.com>
+Date:   Tue Mar 5 15:04:53 2024 -0500
+
+    Creanado licencia del repositorio
+
+commit 3ecb08d978ec2d96585e548628fbbacf5f5d025c
+Author: IvanPP1996 <ivanr.p.p.2020@gmail.com>
+Date:   Tue Mar 5 14:48:22 2024 -0500
+
+    Agregando mas contenido al README
+
+commit d697a094cabaddf4b212eabb2a789f8360238d22
+Author: Ivan Patiño <ivanr.p.p.2020@gmail.com>
+Date:   Tue Mar 5 08:33:54 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit cad690ab937711354800470c42d5f971c0803c3a
+Author: Ivan Patiño <ivanr.p.p.2020@gmail.com>
+Date:   Tue Mar 5 08:27:49 2024 -0500
+
+    Primer commit 😊
